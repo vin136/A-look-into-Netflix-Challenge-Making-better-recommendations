@@ -11,7 +11,7 @@ Solves the netflix challenge with a beginner friendly documentation.Explores var
 ### ONE NAMED DeepNetflix contain a deep learning based model,while the other one contains a host of classical techniques including (matrix factorization,similarity based techniques {user-user},{movie-movie},ensembling techniques and a ton more.)
 
 
-Deepnetflix includes lot of explanation and links to further resources.Here let's take a look at the approach taken in NETFLIX NOTEBOOK.(For the code implementation refer notebook)
+Deepnetflix includes lot of explanation and links to further resources.Here let's take a look at the approach taken in NETFLIX NOTEBOOK.(For the implementation details refer notebook)
 
 ### We typically have two popular approaches to Recommender systems :
 
