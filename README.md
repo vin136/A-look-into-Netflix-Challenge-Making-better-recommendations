@@ -2,7 +2,7 @@
 Solves the netflix challenge with a beginner friendly documentation.Explores various techniques used in practiacal recommender sysetms.
 
 ## THIS REPO CONTAINS  TWO NOTEBOOKS:
-![netflix]()
+![netflix](https://github.com/vin136/A-look-into-Netflix-Challenge-Making-better-recommendations/blob/master/netflix.png)
 ### ONE NAMED DeepNetflix contain a deep learning based model,while the other one contains a host of classical techniques including (matrix factorization,similarity based techniques {user-user},{movie-movie},ensembling techniques and a ton more.)
 
 
